@@ -1,3 +1,11 @@
+###############
+# Repo Specific
+# Papers, books, etc.
+*.pdf
+
+####################
+## Language Specific
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
